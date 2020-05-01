@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35251" started-at="2020-05-01T15:29:42Z" finished-at="2020-05-01T15:30:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35251" started-at="2020-05-01T15:29:42Z" finished-at="2020-05-01T15:30:17Z">
+      <class name="Automation.Saucedemo.SauceSmoke">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Automation.Saucedemo.SauceSmoke@5dd6264]" name="initialize" is-config="true" duration-ms="8983" started-at="2020-05-01T17:29:42Z" finished-at="2020-05-01T17:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="LoginPage()[pri:0, instance:Automation.Saucedemo.SauceSmoke@5dd6264]" name="LoginPage" duration-ms="18452" started-at="2020-05-01T17:29:51Z" finished-at="2020-05-01T17:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method status="PASS" signature="checkoutInformation()[pri:0, instance:Automation.Saucedemo.SauceSmoke@5dd6264]" name="checkoutInformation" duration-ms="4571" started-at="2020-05-01T17:30:09Z" finished-at="2020-05-01T17:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutInformation -->
+        <test-method status="PASS" signature="checkoutOverwiev()[pri:0, instance:Automation.Saucedemo.SauceSmoke@5dd6264]" name="checkoutOverwiev" duration-ms="2859" started-at="2020-05-01T17:30:14Z" finished-at="2020-05-01T17:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutOverwiev -->
+        <test-method status="PASS" signature="complateShoping()[pri:0, instance:Automation.Saucedemo.SauceSmoke@5dd6264]" name="complateShoping" duration-ms="99" started-at="2020-05-01T17:30:17Z" finished-at="2020-05-01T17:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complateShoping -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Automation.Saucedemo.SauceSmoke@5dd6264]" name="closeBrowser" is-config="true" duration-ms="248" started-at="2020-05-01T17:30:17Z" finished-at="2020-05-01T17:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation.Saucedemo.SauceSmoke -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

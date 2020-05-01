@@ -1,0 +1,6 @@
+pageObjects\LoginObjects.class
+pageObjects\ProductsObjects.class
+pageObjects\CheckOutObjects.class
+pageObjects\ShopingObjects.class
+resources\basic.class
+resources\ExtentReporterNG.class
